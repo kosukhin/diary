@@ -1,0 +1,8 @@
+10:00
+Планирую на сегодня разбираться с BalancedTrees
+Не знаю что это такое но мне интересно.
+
+21:51
+После работы и всякой рутины начинаю разбираться
+Ссылку использую эту
+https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/balancedtree
